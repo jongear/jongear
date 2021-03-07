@@ -12,4 +12,4 @@
 ![GitHub user stats](https://github-readme-stats.vercel.app/api?username=jongear&count_private=true&show_icons=true&layout=compact)
 
 
-![Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jongear&layout=compact&show_icons=true)
+![Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jongear&layout=compact)
